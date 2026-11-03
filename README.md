@@ -1,30 +1,35 @@
-# Valcar Consórcio
+# Valcar Consórcio — Lugar de realizar
 
-Site institucional da Valcar Consórcio, representante autorizada das maiores marcas de consórcio do Brasil.
+Site da Valcar Consórcio, com unidades em **Manaus/AM** e **Curitiba/PR** (dentro da Chevrolet Metrosul), Chevrolet Consórcio e Consórcio União.
 
-🔗 **Site no ar:** [valcarconsorcio.com.br](https://valcarconsorcio.com.br/)
+🔗 **Site:** [consorciovalcar.com.br](https://consorciovalcar.com.br/)
 
-![Preview do site](preview.png.jpeg)
-
-## Sobre o projeto
-
-Site one-page desenvolvido para apresentar a empresa, gerar contatos pelo WhatsApp e facilitar o atendimento aos clientes.
+![Prévia do site](preview.jpg)
 
 ## O que tem no site
 
-- Página inicial com os números da empresa
-- Seções sobre a Valcar e os diferenciais do consórcio
-- Depoimento em vídeo e carrossel de avaliações de clientes
-- Seção da campanha Pontualidade Premiada
-- Parceiros: administradoras e concessionárias
-- Atendimento por WhatsApp e formulário de solicitação
-- Páginas extras: Seja Representante, Campanhas e Política de Privacidade
-- Layout responsivo para celular
+- Simulador que envia a simulação pronta para o WhatsApp (Chevrolet por modelo ou Consórcio União: carro, moto, imóvel e serviços)
+- Carrossel deslizante com os 13 modelos Chevrolet
+- Números da Valcar, como funciona e diferenciais
+- Seção do Consórcio União
+- Depoimento em vídeo e avaliações de clientes reais
+- Unidades de Manaus e Curitiba com mapa e "Como chegar"
+- Campanha Pontualidade Premiada, dúvidas frequentes
+- Página **Seja Representante** com ficha enviada pelo WhatsApp e link para **Trabalhe Conosco**
 
 ## Tecnologias
 
-HTML5 • CSS3 • JavaScript
+HTML5, CSS3 e JavaScript puro. Sem build: é só abrir o `index.html`. Publicado no GitHub Pages com domínio próprio (`CNAME`).
 
----
+## Estrutura
 
-> Este repositório é só de apresentação. O código-fonte não está disponível.
+```
+index.html            página principal
+representante.html    Seja Representante
+assets/css/           estilos
+assets/js/            simulador, carrossel e menu
+assets/img/           logos, modelos e fotos
+assets/depoimentos-valcar.mp4
+```
+
+Desenvolvido por [Clear Code](https://eduruppluz.github.io/clear-code-site/).
