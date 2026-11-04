@@ -32,4 +32,4 @@ assets/img/           logos, modelos e fotos
 assets/depoimentos-valcar.mp4
 ```
 
-Desenvolvido por [Clear Code](https://eduruppluz.github.io/clear-code-site/).
+Desenvolvido por [Clear Code](https://clearcodeerl.com.br/).
